@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JohnMPC
-- 👀 I’m interested in embroidery file viewing and editting colours and adding details to order information
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jmglanville86@gmail.com
 
